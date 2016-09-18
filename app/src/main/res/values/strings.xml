@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FyberTest</string>
+    <string name="title_activity_offers">Offers Activity</string>
+    <string name="empty_field_msg">This field should not be empty</string>
+    <string name="fail_message">Failed to get response from server</string>
+    <string name="response_not_valid">The response returned from the server is not valid</string>
+    <string name="error_dialog_title">An error happend</string>
+    <string name="error_dialog_message">The error message is :\n\n%1$s</string>
+    <string name="ok">Ok</string>
+</resources>
